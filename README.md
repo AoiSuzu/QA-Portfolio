@@ -6,4 +6,4 @@ I’m a result-oriented person with an academic foundation in Philology and cour
 * Testing and creating documentation for mobile converter app. [**Checklist + bug reports for a test mobile application**](https://docs.google.com/spreadsheets/d/17y9R3Tbib3jBlSSSC7rkE9G0jQm2ad1AM574xFMNyQY/edit?usp=drive_link)
 * Testing and creating documentation for PC games *Pla_toon* and *Hamster Playground*: [**Bug Reports**](https://docs.google.com/spreadsheets/d/1WaE-g5i1fuWND4ap5C4l4blF39v1RQc2uuKbY6HiznQ/edit?usp=drive_link)
 * Creating [**test cases in TestRail**](https://drive.google.com/file/d/1NT4fULW57hQ7CfUyMrTgnP_TQ5Vg0dmm/view?usp=drive_link) and [**test runs in TestRail**](https://drive.google.com/file/d/1OpJ_26WtKwVYNo_D1mDBFGDZGEHGI8PS/view?usp=drive_link)
-* Creating bug reorts in [**Jira**](https://drive.google.com/file/d/1Z3_CB-UJUq1reUdusK1R53Wi_hFKRZPB/view?usp=drive_link)
+* Creating bug reports in [**Jira**](https://drive.google.com/file/d/1Z3_CB-UJUq1reUdusK1R53Wi_hFKRZPB/view?usp=drive_link)
